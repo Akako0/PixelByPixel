@@ -1,0 +1,6 @@
+{
+    "pixel_size":1,
+    "max_fps":120,
+    "threads_number":4,
+    "world_folder":"/home/akako/pixelByPixel/world/"
+}
